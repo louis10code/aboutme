@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+:root {
+    --main-fire-theme:linear-gradient(to bottom, #FF0000,#FF7878);
+    --background-theme: #393631;
+    font-family: "Roboto Mono", monospace;
+    color:white;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
